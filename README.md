@@ -27,6 +27,8 @@ The project is organized into four main parts, each focusing on a specific aspec
 
 4. **Performances analysis**
 
+All the models and their training histories can be found in the corresponding directory.
+
 ## Usage
 
 To utilize and explore this project, follow these steps:
@@ -41,7 +43,7 @@ To utilize and explore this project, follow these steps:
 
 3. **Run the Analysis:**
 
-   You will find all the analysis in the Jupyter Notebook provided (`Projet_AT_R.ipynb`).
+   You will find all the analysis in the Jupyter Notebook provided (`Projet_AT_T.ipynb`).
 
 
 Contributors
